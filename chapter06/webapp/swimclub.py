@@ -2,7 +2,7 @@ import statistics
 import hfpy_utils
 
 CHARTS = "charts/"
-FOLDER = "swimdata/"
+FOLDER = 'swimdata/'
 
 
 def read_swim_data(filename):
